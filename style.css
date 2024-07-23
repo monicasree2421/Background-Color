@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: red;
+}
+#main{
+    text-align: center;
+    color: white;
+}
+#sub{
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+#btn{
+   background-color: transparent;
+}
